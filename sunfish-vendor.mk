@@ -77,8 +77,6 @@ PRODUCT_PACKAGES += \
     ConnMO \
     DCMO \
     DMService \
-    DeviceIntelligenceNetworkPrebuilt \
-    DevicePersonalizationPrebuiltPixel4 \
     DiagMon \
     EuiccGoogle \
     HardwareInfo \
